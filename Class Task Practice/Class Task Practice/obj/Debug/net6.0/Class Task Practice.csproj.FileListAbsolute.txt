@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\bin\Debug\net6.0\Class Task Practice.exe
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\bin\Debug\net6.0\Class Task Practice.deps.json
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\bin\Debug\net6.0\Class Task Practice.runtimeconfig.json
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\bin\Debug\net6.0\Class Task Practice.dll
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\bin\Debug\net6.0\Class Task Practice.pdb
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.AssemblyInfo.cs
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.dll
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\refint\Class Task Practice.dll
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.pdb
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\Class Task Practice.genruntimeconfig.cache
+C:\Users\user\OneDrive\Masaüstü\Static, Extention\Class Task Practice\Class Task Practice\obj\Debug\net6.0\ref\Class Task Practice.dll
